@@ -1,0 +1,38 @@
+{
+  "name": "react-media-sequence-player",
+  "version": "0.0.1",
+  "description": "A well designed Media sequence player. That can play sequences of different videos, animated text messages and images. Very useful in a promotion screen space. Like in waiting queue system screens which contain a promotion space.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheMagicianDev/react-media-sequence-player.git"
+  },
+  "author": "Mohamed Lamine Allal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMagicianDev/react-media-sequence-player/issues"
+  },
+  "homepage": "https://github.com/TheMagicianDev/react-media-sequence-player#readme",
+  "dependencies": {
+    "classnames": "2.2.6",
+    "react-player": "1.9.3",
+    "react-reveal-text": "0.1.1",
+    "react-typist": "2.0.5"
+  },
+  "peerDependencies": {
+    "react": "^16.8.3",
+  },
+  "keywords": [
+    "react",
+    "media",
+    "sequence",
+    "player",
+    "video",
+    "text",
+    "image",
+    "animated"
+  ]
+}
