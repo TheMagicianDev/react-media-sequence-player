@@ -4,7 +4,7 @@ A well designed Media sequence player. That can play sequences of different vide
 
 This package have a brother package that does allow the creation of the sequences. The link will be added later once published.
 
-> As is. This is a direct dump from a very old project. Slightly refactored.
+> As is. This is a direct dump from a very old project (2019). Slightly refactored.
 
 ## Props
 
